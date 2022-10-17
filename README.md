@@ -33,6 +33,4 @@
    `make clean`
 
 #### Challenge :
-   Paying attention to the order of operation steps in detail was difficult, for example, at which point to assert a condition, to verify a return value...etc. It perhaps comes down to the knowledge of the hardware architechture. Therefore, the part took us time is to study the file system architecture and to test the program. 
-
-Also unable to write on double indirect blocks properly even after several trials.
+   Unable to write on double indirect blocks properly even after several trials.
