@@ -1,7 +1,5 @@
-#### Team member :
-   Balasubramaniyan, Sankari
-   Bragagnolo, Chia-ling
-   Elhadj-Abdoulaye, Diallo
+#### Author :
+   Balasubramaniyan Sankari
 
 #### compile the programe :
 
